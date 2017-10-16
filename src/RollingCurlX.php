@@ -7,6 +7,7 @@
                     License: MIT
         https://github.com/marcushat/RollingCurlX
 */
+namespace marcushat;
 
 Class RollingCurlX {
     private $_curl_version;
